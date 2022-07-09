@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e5ab44e.css",
-    "main.js": "/static/js/main.a5c98845.js",
-    "static/media/image-4.png": "/static/media/image-4.596b64beee66282907ac.png",
-    "static/media/image-3.png": "/static/media/image-3.cc74a978a5d6b419fb58.png",
-    "static/media/background_header.jpg": "/static/media/background_header.8c1b1fc24f1c4f947b68.jpg",
-    "static/media/bg-7.jpg": "/static/media/bg-7.05193e065e49559b7a2b.jpg",
-    "static/media/hancock_logo.png": "/static/media/hancock_logo.1f320c9763c1476b3c77.png",
-    "index.html": "/index.html",
-    "main.2e5ab44e.css.map": "/static/css/main.2e5ab44e.css.map",
-    "main.a5c98845.js.map": "/static/js/main.a5c98845.js.map"
+    "main.css": "/elevage/static/css/main.2e5ab44e.css",
+    "main.js": "/elevage/static/js/main.c10be25b.js",
+    "static/media/image-4.png": "/elevage/static/media/image-4.596b64beee66282907ac.png",
+    "static/media/image-3.png": "/elevage/static/media/image-3.cc74a978a5d6b419fb58.png",
+    "static/media/background_header.jpg": "/elevage/static/media/background_header.8c1b1fc24f1c4f947b68.jpg",
+    "static/media/bg-7.jpg": "/elevage/static/media/bg-7.05193e065e49559b7a2b.jpg",
+    "static/media/hancock_logo.png": "/elevage/static/media/hancock_logo.1f320c9763c1476b3c77.png",
+    "index.html": "/elevage/index.html",
+    "main.2e5ab44e.css.map": "/elevage/static/css/main.2e5ab44e.css.map",
+    "main.c10be25b.js.map": "/elevage/static/js/main.c10be25b.js.map"
   },
   "entrypoints": [
     "static/css/main.2e5ab44e.css",
-    "static/js/main.a5c98845.js"
+    "static/js/main.c10be25b.js"
   ]
 }
