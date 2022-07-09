@@ -1,12 +1,17 @@
 import React from 'react'
 import {Button} from 'react-bootstrap';
-import background from "../../assets/img/background_header.jpg"
+import background from "../../assets/img/background_header.jpg";
+import {Animated} from "react-animated-css";
 export default function Accueil() {
     return (
         <>
-             <div className="headerDown" style={{ backgroundImage: `url(${background})` }}>                
-                        <h1>Des Produits Naturels Sains</h1>
-                        <Button variant="outline-warning">Voir tous nos produits</Button>
+             <div className="headerDown" style={{ backgroundImage: `url(${background})` }}> 
+                        <Animated animationIn="fadeInDown" animationInDelay="2000" isVisible={true}>               
+                            <h1>Des Produits Naturels Sains</h1>
+                        </Animated>
+                        <Animated animationIn="fadeInUp" animationInDelay="3000" isVisible={true}>               
+                        <Button variant="outline-warning">VOIR TOUS NOS PRODUITS</Button>
+                        </Animated>
              </div>
              {/* <div className="welcome">
                 <div className="welcomeText">
