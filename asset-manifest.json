@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elevage/static/css/main.2e5ab44e.css",
-    "main.js": "/elevage/static/js/main.c10be25b.js",
+    "main.js": "/elevage/static/js/main.48761025.js",
     "static/media/image-4.png": "/elevage/static/media/image-4.596b64beee66282907ac.png",
     "static/media/image-3.png": "/elevage/static/media/image-3.cc74a978a5d6b419fb58.png",
     "static/media/background_header.jpg": "/elevage/static/media/background_header.8c1b1fc24f1c4f947b68.jpg",
@@ -9,10 +9,10 @@
     "static/media/hancock_logo.png": "/elevage/static/media/hancock_logo.1f320c9763c1476b3c77.png",
     "index.html": "/elevage/index.html",
     "main.2e5ab44e.css.map": "/elevage/static/css/main.2e5ab44e.css.map",
-    "main.c10be25b.js.map": "/elevage/static/js/main.c10be25b.js.map"
+    "main.48761025.js.map": "/elevage/static/js/main.48761025.js.map"
   },
   "entrypoints": [
     "static/css/main.2e5ab44e.css",
-    "static/js/main.c10be25b.js"
+    "static/js/main.48761025.js"
   ]
 }
